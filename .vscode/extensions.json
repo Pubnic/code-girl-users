@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "irongeek.vscode-env",
+        "magicstack.magicpython",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "kevinrose.vsc-python-indent",
+        "himanoa.python-autopep8",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
